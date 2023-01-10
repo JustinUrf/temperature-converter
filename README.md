@@ -23,6 +23,8 @@ N/a
 
 ## License
 
+MIT 
+
 Feel free to use or contact me at JustinUrf@gmail.com if you have any questions!
 
 Copyright (c) Justin Lee, Kai Clausen 01/10/23
